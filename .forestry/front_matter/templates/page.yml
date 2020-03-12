@@ -16,3 +16,11 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: food
+  type: blocks
+  label: food
+  template_types:
+  - foods
+  config:
+    min: 
+    max: 
